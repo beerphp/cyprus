@@ -11,9 +11,13 @@ For the reasent news and meets, please see the following chats:
 
 | Version                                  | Place                                                                                    | Date             |
 | ---------------------------------------- |------------------------------------------------------------------------------------------|------------------|
-| #14 (2 years anniversary)                | Comming soon                                                                             | 26 February 2025 |
+| #18                                      | [Bono](https://maps.app.goo.gl/FKTr4XrSqpKwsY539)                                        | 06 February 2026 |
+| #17                                      | [The Woodman](https://maps.app.goo.gl/NAB4HKovhHkrRQC8A)                                 | 08 October 2025  |
+| #16                                      | [Bavarian](https://maps.app.goo.gl/sUewXJftwYSHkTDE9)                                    | 04 June 2025     |
+| #15                                      | [Sherlock's home bar](https://maps.app.goo.gl/GMASWR6K5VB5YsXh7)                         | 14 Merch 2025    |
+| #14 (2 years anniversary)                | [The Woodman](https://maps.app.goo.gl/NAB4HKovhHkrRQC8A)                                 | 26 February 2025 |
 | #13                                      | [Bono](https://maps.app.goo.gl/FKTr4XrSqpKwsY539)                                        | 29 January 2025  |
-| #12                                      | [Bavarian](https://maps.app.goo.gl/sUewXJftwYSHkTDE9)                                    | 31 October 2024     |
+| #12                                      | [Bavarian](https://maps.app.goo.gl/sUewXJftwYSHkTDE9)                                    | 31 October 2024  |
 | BeerPHP MeetUp#3                         | [XM (El Toro Roof Bar)](https://maps.app.goo.gl/XD2wZWGxY2PcyEk49), [Registration](https://www.eventbrite.com/e/beer-php-cyprus-meetup-3-tickets-1028712024357) | 10 October 2024  |
 | #11                                      | [Bavarian](https://maps.app.goo.gl/sUewXJftwYSHkTDE9)                                    | 31 July 2024     |
 | #10                                      | [Bavarian](https://maps.app.goo.gl/sUewXJftwYSHkTDE9)                                    | 20 June 2024     |

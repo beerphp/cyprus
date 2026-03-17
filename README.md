@@ -1,8 +1,8 @@
 # BeerPHP: Cyprus
 
-For the reasent news and meets, please see the following chats:
+For the resent news and meets, please see the following chats:
 
-[![Discord (English)](https://img.shields.io/badge/Discurd_(English)-Join_chat-8A2BE2.svg?style=flat)](https://discord.gg/uSbc69r62C)
+[![Discord (English)](https://img.shields.io/badge/Discord_(English)-Join_chat-8A2BE2.svg?style=flat)](https://discord.gg/uSbc69r62C)
 [![Telegram (mostly in Russian)](https://img.shields.io/badge/Telegram_(mostly_in_Russian)-Join_chat-blue.svg?style=flat)](https://t.me/beerphp_cy)
 [![Youtube](https://img.shields.io/badge/Youtube-See_MeetUp_records-FF0000.svg?style=flat)](https://www.youtube.com/@BeerPHPCyprus)
 
